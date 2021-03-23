@@ -2,6 +2,8 @@
 
 Remaking many system C function
 
+And making my own functions to manipulate singly linked list
+
 # Compiling 
 
 type 
